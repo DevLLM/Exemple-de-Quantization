@@ -10,4 +10,5 @@ Groupe : https://www.facebook.com/groups/iagroupe<br>
 Threads : https://www.threads.net/@be4dev<br>
 Messenger: https://m.me/be4dev<br>
 Instagram : https://www.instagram.com/be4dev/<br>
-Tiktok: https://www.tiktok.com/@mdrtechnologie
+Tiktok: https://www.tiktok.com/@mdrtechnologie<br>
+Linkedin: https://www.linkedin.com/in/minopy<br>
